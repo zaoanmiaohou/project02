@@ -37,3 +37,7 @@ class NotInitialization
         System.out.println(SubClass.value);
     }
 }
+class GithubUpdate{
+
+
+}
